@@ -1,3 +1,3 @@
 # Hello-World
 Hello World
-Some changs go here
+Some changes go here
